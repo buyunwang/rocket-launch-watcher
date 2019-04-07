@@ -22,12 +22,12 @@ In the launch-api directory, you can run:
 
 ### `nodemon`
 
-This app starts a server and listens on port 3000 for connections.<br>
+This app starts an express server and listens on port 3000 for connections.<br>
 
 In the launch-react directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode and you should see the app on port 3001.<br>
+Runs the app in the development mode and you should see the react app on port 3001.<br>
 
 
