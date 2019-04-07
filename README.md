@@ -1,4 +1,4 @@
-# rocket-launcher-watcher
+# rocket-launch-watcher
 
 A client for [Lauch Library created by Pete Riesett and Benjamin Higginbotham](http://launchlibrary.net/)
 
