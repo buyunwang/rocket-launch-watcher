@@ -7,7 +7,7 @@ A client for [Lauch Library created by Pete Riesett and Benjamin Higginbotham](h
 Clone this repo to your machine.
 
 ```bash
-git clone git@github.com:buyunwang/rocket-launch-watcher.git
+git clone https://github.com/buyunwang/rocket-launch-watcher
 ```
 
 Change directory to the cloned repo.
